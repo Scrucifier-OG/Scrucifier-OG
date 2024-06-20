@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Artificial Intelligence, Machine Learning, Deep Learning and implementation of these algorithms in automation industry.**
+- 🌱 I’m currently working **Artificial Intelligence, Machine Learning, Deep Learning and implementation of these algorithms in automation industry.**
 
 - 💬 Ask me about **OpenLCA, Auto-Desk Fusion 360, Sima Pro, Python and Traditional Machine Learning Algorithms.**
 
